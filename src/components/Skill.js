@@ -6,9 +6,10 @@ function Skill()
                 <span class="qualification">
                 <h4>Programming langauges</h4>
                 <ul>
-                    <li>1. Python</li>
-                    <li>2. C</li>
-                    <li>3. c++</li>
+                    <li>1. C</li>
+                    <li>2. C++</li>
+                    <li>3. Python</li>
+                    <li>4. Dart</li>
                     
                 </ul>
                 </span>
@@ -25,6 +26,8 @@ function Skill()
                     <h4>Back-End</h4>
                     <ul>
                         <li>1. Mysql</li>
+                        <li>2.SQlite</li>
+
                         
                     </ul>
                 
@@ -32,7 +35,10 @@ function Skill()
                 <span class="qualification">
                     <h4>Extra-Skills</h4>
                     <ul>
-                        <li>1. Full-Stack Web Developer</li>
+                        <li>1.Data Structure</li>
+                        <li>2. Django Developer</li>
+                        <li>3. Python developer</li>
+                        <li>4. Flutter Developer</li>
                        
                     </ul>
                 </span>

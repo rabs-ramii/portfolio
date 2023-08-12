@@ -4,7 +4,7 @@ function About()
         <>
            <ul class="about">
             <li>About</li>
-            <p>I am <b>Ram Prakash Chauhan</b>, hailing from the state of <b>Bihar</b>. I am <b>22</b> years old.<br/>
+            <p>I am <b>Ram Prakash Chauhan</b>, hailing from the state of <b>Bihar</b>. I was born on <b>17 september 2000</b>.<br/>
                 I am presently pursuing <b>MCA with specialisation in Artificial intelligent and Machine Learning</b> from Lakshmi Narayan College of technology University.<br/>
                 Moreover, I am proficient as well as a capable and confident person.<br/> I have learned to be very hard-working as well as passionate about my career from the very core.<br/>
                 Since my childhood, I have always been trained to focus on my passion.<br/>
