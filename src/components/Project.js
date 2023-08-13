@@ -23,7 +23,7 @@ function Project()
                         <li>1.Food ordering website: Php-Mysql</li>
                         <li>2.Music sharing Portal: Django-SQlit3</li>
                         <li>3.HSB Financial Services: Django-Sqlite3</li>
-                        <li>4.Medicine Ordering Website (Ongoing)</li>
+                        <li>4.Medicine Ordering Website (..Ongoing)</li>
                     
                    </ul>
                 </span>
